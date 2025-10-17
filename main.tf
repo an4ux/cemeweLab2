@@ -45,7 +45,7 @@ resource "aws_instance" "apache_ec2" {
       <body style='font-family:Arial; text-align:center; margin-top:50px;'>
         <h1>Hi, ${var.student_name}</h1>
         <h2>Welcome to CeMeWe DevOps Workshop</h2>
-        <img src="https://lab1-manjithatest2-bucket.s3.eu-north-1.amazonaws.com/picture111.jpg"
+        <img src="https://lab1-an4ux-bucket.s3.eu-north-1.amazonaws.com/picture111.jpg"
              alt="Workshop Image"
              style="display:block; margin:30px auto; max-width:500px; border-radius:15px; box-shadow:0 0 10px #ccc;">
       </body>
